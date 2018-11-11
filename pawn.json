@@ -1,0 +1,8 @@
+{
+    "user": "Agneese-Saini",
+	"repo": "PreviewModelDialog",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"BigETI/pawn-memory"
+	]
+}
